@@ -36,7 +36,7 @@
         "mongodb": "^3.2.7",
         "morgan": "^1.9.1",
         "multer": "^1.4.1",
-        "nodemailer": "^6.2.1",
+        "nodemailer": "^7.0.7",
         "npmlog": "^4.1.2",
         "passport": "^0.4.0",
         "passport-local": "^1.0.0",
